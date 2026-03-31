@@ -1,6 +1,6 @@
 
 
-# **Campus Course & Records Management System **
+# **Campus Course & Records Management System ** 
 
 This is a full-featured, console-based Java application built to help you manage core data for a higher education institution. Think of it as a central system for handling student and course information, managing enrollments and grades, and keeping all your data safe with robust file operations.
 
